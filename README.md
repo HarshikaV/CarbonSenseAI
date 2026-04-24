@@ -1,6 +1,6 @@
 # CarbonSense AI
 
-CarbonSense is a tool that estimates the carbon and water impact of AI workloads.
+CarbonSense is a tool that estimates the carbon and water impact of AI workloads and suggests ways to make them more efficient.
 
 ## Overview
 We built this at the NVIDIA Agents for Impact Hackathon (SJSU), where our team placed 1st out of 100+ teams. The goal was to make it easier to understand how much environmental impact different AI workloads have, and what you can do to reduce it.

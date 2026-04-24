@@ -39,6 +39,7 @@ See `CarbonSense_Demo.ipynb` for the full demo.
 
 ## Note
 This was built quickly during a hackathon, so the focus was on getting a working system rather than making it production-ready.
+The interactive dashboard runs in Google Colab and will not render directly on GitHub.
 
 ## Team
 Built as part of a team of 4 at the NVIDIA Agents for Impact Hackathon.

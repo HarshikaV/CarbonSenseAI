@@ -28,4 +28,4 @@ CarbonSense AI was built at the NVIDIA Agents for Impact Hackathon (1st place ou
 - Presented the final project
 
 ## Demo
-*(Add screenshots here if available)*
+![Demo](demo.png)
